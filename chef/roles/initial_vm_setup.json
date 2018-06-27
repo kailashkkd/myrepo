@@ -1,0 +1,13 @@
+{
+ "name": "_cc-vm-init_infra",
+ "description": "",
+ "json_class": "Chef::Role",
+ "chef_type": "role",
+ 	"run_list": [
+ 	"recipe[mycookbook]",
+  ],
+  "env_run_lists": {
+  }
+}
+ 
+ 	
